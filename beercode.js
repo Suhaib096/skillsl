@@ -8,7 +8,7 @@ const express = require("express");
 const ayarlar = require("./ayarlar.json");
 const Discord = require("discord.js");
 const client = new Discord.Client();
-client.login("ODgwNTU4NjgxOTc5MjI0MTE0.GMOEnX.Vkh_-UF5lgO90PcXbcr6BCCwA_FO4BmBGHOW_8");
+client.login("ODgwNTU4NjgxOTc5MjI0MTE0.GEIzfE.TxB7A-dRT8YFB2gy2L2fIZAwwRj2AuusxLpWP8");
 //== BEERCODE (https://discord.gg/ew3dpTu4Z5) BEERCODE ==\\
 
 //=== BEERCODE (https://discord.gg/ew3dpTu4Z5) BEERCODE ==\\
